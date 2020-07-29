@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-typrescript",
+  "version": "1.0.0",
+  "description": "Game- Tic Tac Toe with Typescript & HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laharicg/Tic-Tac-Typrescript.git"
+  },
+  "author": "Lahari Chandana G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laharicg/Tic-Tac-Typrescript/issues"
+  },
+  "homepage": "https://github.com/laharicg/Tic-Tac-Typrescript#readme",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}
